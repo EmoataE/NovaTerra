@@ -7,7 +7,6 @@ NovaTerra is a relationship intelligence system for advisors that organises clie
 - Automated follow-up: Automatically sends follow up messages to clients on important dates (e.g. birthdays) or when there has been limited interaction
 - AI Assistant: Answers clients common questions, collects basic information and schedules meetings on the advisor’s behalf
 - AI meeting summary: Can record meetings between clients and advisors and summarise key information. This feature can also organise messy typed notes
-- Referral database: This keeps track of all the key referral partners, ranking them based on the number of leads and their conversation rate
 
 ## Team: NovaTerra
 - Emoata Oghenetega Ejodame
