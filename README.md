@@ -3,9 +3,9 @@
 
 NovaTerra is a relationship intelligence system for advisors that organises client data and ensures that advisors stay on top of their client relationships. Key features include:
 
-- Client intelligence summary: This gives the advisor an overview of the client’s insurance portfolio
-- Automated follow-up: Automatically sends follow up messages to clients on important dates (e.g. birthdays) or when there has been limited interaction
-- AI Assistant: Answers clients common questions, collects basic information and schedules meetings on the advisor’s behalf
+- Client information summary: This gives the advisor an overview of their client’s for the day (i.e. key info and recommended actions)
+- Automated messaging: Automatically sends follow up messages to clients on important dates (e.g. birthdays, meetings) or when there has been limited interaction
+- AI Assistant: Answers clients common questions, provides recommendations, collects basic information and schedules meetings on the advisor’s behalf
 - AI meeting summary: Can record meetings between clients and advisors and summarise key information. This feature can also organise messy typed notes
 
 ## Team: NovaTerra
