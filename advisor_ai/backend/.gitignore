@@ -1,19 +1,25 @@
+# Environment
 .env
+*.env
 
-venv/
-.venv/
-
+# Python
 __pycache__/
 *.pyc
 
+# Database
+*.db
+advisor.db
+advisor_ai.db
+*.sqlite
+*.sqlite3
+
+# MacOS
+.DS_Store
+__MACOSX/
+
+# IDE
 .idea/
 .vscode/
 
-build/
-dist/
-
-.dart_tool/
-
+# Uploads
 uploads/
-
-*.log
